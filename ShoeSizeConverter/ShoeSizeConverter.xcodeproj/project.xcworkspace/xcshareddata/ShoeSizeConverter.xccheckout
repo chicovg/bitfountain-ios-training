@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4AAFE7E9-161A-499A-8424-2D3F6372E604</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ShoeSizeConverter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F2E884F92FC84223554EDDF284967D8A3A782DC6</key>
+		<string>https://github.com/chicovg/bitfountain-ios-shoe-size_converter.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ShoeSizeConverter.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F2E884F92FC84223554EDDF284967D8A3A782DC6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/chicovg/bitfountain-ios-shoe-size_converter.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F2E884F92FC84223554EDDF284967D8A3A782DC6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F2E884F92FC84223554EDDF284967D8A3A782DC6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ShoeSizeConverter</string>
+		</dict>
+	</array>
+</dict>
+</plist>
