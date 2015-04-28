@@ -19,7 +19,6 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         createBalloons()
-        setBalloon()
     }
 
     override func didReceiveMemoryWarning() {
@@ -56,8 +55,8 @@ class ViewController: UIViewController {
     }
 
     @IBAction func nextButtonPressed(sender: AnyObject) {
-        currentBallon++
         setBalloon()
+        currentBallon = (currentBallon + 1) % 99;
     }
 
 }
